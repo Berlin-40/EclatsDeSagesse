@@ -18,7 +18,6 @@ Une application web permettant de récupérer des citations depuis une API exter
 
 - HTML / CSS / JavaScript
 - Framework côté client Vue.js
-- Backend (facultatif, ex : Node.js, Spring Boot, Python Flask)
 - API externe pour les citations 
 
 ---
